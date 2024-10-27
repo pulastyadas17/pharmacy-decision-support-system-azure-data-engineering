@@ -16,4 +16,8 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 7) Generate PowerBI Visualization Reports from Delta Table as per defined KPIs.
 
 
-### 
+## Benefits of the Pharmacy Decision Support System using Azure Data Engineering Solution
+##
+1) Improved Sales and Profitability: Leveraging sales data by location and category allows HealthPro to optimize stock and reduce waste.
+2) Data-Driven Marketing: Targeted insights enable HealthPro to improve customer satisfaction with relevant promotions.
+3) Operational Efficiency: Automated data processing, archival, and reporting streamline pharmacy operations and reduce manual intervention.
