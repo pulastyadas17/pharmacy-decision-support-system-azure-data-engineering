@@ -8,18 +8,28 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 
 ## High Level Project Architecture 
 ###
-1) Create all **fact table** and **dimension tables** inside **Databricks** in the form of **Delta Table**.
+Fact and Dimension Tables: Ingest and store historical and transactional data in Delta Lake tables inside Azure Databricks.
+   
 ###
-2) Trigger **Azure Databricks Notebook** from **Azure Data Factory** to process **daily_pos_transaction_file** which will arrive in **Azure Data Lake Gen2**.
+**Data Ingestion Pipeline**
+Trigger the **Azure Data Factory (ADF) Pipeline** to initiate data ingestion each day a new **daily_pos_transaction_file** arrives in **Azure Data Lake Gen2**.
+    
 ###
-3) After processing daily_pos_transaction_file in Azure Databricks using PySpark. Load the processed file to various delta tables as per various KPI defined like - **Citywise**, **ProductCategorywise** and **CustomertWise**.(Delta Table will act as **Data Warehouse** of defined **KPIs**)
+**Data Processing & KPI Generation in Azure Databricks**
+Process the daily_pos_transaction_file using PySpark to clean, validate, and transform data. Populate Delta Tables by calculating various defined KPIs:Citywise Sales, ProductCategorywise Sales, Customerwise Purchase Behavior.
+**Delta Table Storage**: Store processed data in **Delta Lake tables**, acting as the **data warehouse** for **KPIs**.
+   
 ###
-4) Put copy of all the output files in Azure Data Lake Gen2 as csv format with custom name along with processing date.
+**Export Processed Data to Azure Data Lake Gen2**
+Export all output KPI datasets to Azure Data Lake Gen2 in .csv format with custom filenames containing the processing date (e.g., citywise_KPI_2024-10-26.csv).
+This enables historical tracking of processed data and easy access to insights.
+
 ###
 **Archival & Cleanup of Raw Files**
 Move the raw source file, daily_pos_transaction_file, to a processed/directory within Azure Data Lake Gen2, organizing files by processing date.
 Clean up the previous job directory to free up storage and manage data retention effectively.
 Delete raw source file (daily_pos_transaction_file )from previous job directory.
+
 ###
 **Visualization & Reporting**
    Generate **PowerBI Visualization Reports** from Delta Table as per defined KPIs.
