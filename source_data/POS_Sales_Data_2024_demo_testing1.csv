@@ -1,0 +1,7 @@
+TransactionID,StoreID,StoreLocation,CashierID,CustomerID,CustomerAge,CustomerGender,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,Timestamp,TotalAmount,DiscountApplied,TaxAmount,TotalAmountAfterTax
+T00140,S001,San Jose,C002,U021,50,Female,P014,AIDS Treatment (Prescription),Diazepam,5,30,04-07-2024 02:33,150,50,10,110
+T0015,S007,New York City,C003,U037,36,Male,P041,Cardiovascular Diseases (Prescription),Lisinopril,1,238.14,12-07-2024 00:16,238.14,29.24,16.6698,225.5698
+T0016,S009,Chicago,C005,U009,41,Male,P005,Antibiotics (Prescription),Ciprofloxacin,4,121.95,23-07-2024 18:28,487.8,10.21,34.146,511.736
+T0017,S008,Phoenix,C004,U039,58,Female,P010,Bone Health (OTC & Prescription),Cisplatin,2,94.82,10-06-2024 11:59,189.64,14.22,13.2748,188.6948
+T0018,S010,San Jose,C005,U059,36,Female,P027,Eye Health (OTC & Prescription),Vitamin D,2,142.14,24-06-2024 07:49,284.28,37.58,19.8996,266.5996
+T0019,S005,Philadelphia,C005,U065,53,Female,P008,Diabetes (Prescription & OTC),Olopatadine,4,203.3,19-07-2024 01:52,813.2,0.01,56.924,870.114

@@ -1,0 +1,11 @@
+VendorID,VendorName,ProductCategory,SupplyRate
+V001,Ellis-Farmer,Cancer Treatment (Prescription),1.038399201
+V002,Edwards PLC,Eye Health (OTC & Prescription),1.097562743
+V003,"Smith, Watkins and Good",Cancer Treatment (Prescription),0.960920011
+V004,Baird Ltd,Mental Health (Prescription),0.818460498
+V005,Yang Inc,Pain Relief (OTC & Prescription),1.19648295
+V006,Sandoval-Wang,Antibiotics (Prescription),1.196316238
+V007,Munoz-Ramos,Cardiovascular Diseases (Prescription),1.105356666
+V008,Hamilton-Callahan,Diabetes (Prescription & OTC),0.873965169
+V009,"White, Burke and Jones",AIDS Treatment (Prescription),0.83970798
+V010,Stewart Group,Diabetes (Prescription & OTC),0.817664363
