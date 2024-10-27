@@ -29,29 +29,23 @@ Process the daily_pos_transaction_file using PySpark to clean, validate, and tra
 
 ![Azure_Databricks_Catalog_KPI_Delta_Tables](https://github.com/user-attachments/assets/0dfaf8e4-3828-4c48-a3db-6f3d7add0aad)
 
-
-CitywiseKPI
+### CitywiseKPI
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_City](https://github.com/user-attachments/assets/245b1307-782a-4d0b-85ea-b1dd14266ab4)
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_City2](https://github.com/user-attachments/assets/73580384-476b-4834-970a-16afe4ca6120)
 
-
-
-ProductCategorywiseKPI
+### ProductCategorywiseKPI
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_Product_Category](https://github.com/user-attachments/assets/64651741-ec02-4d9a-ba25-8caa77ad66f1)
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_Product_Category2](https://github.com/user-attachments/assets/a1491640-cdaa-435a-8fc4-0ef3fb9aec42)
 
-
-
-CustomerwiseKPI
+### CustomerwiseKPI
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_Customer](https://github.com/user-attachments/assets/d48cfc94-788f-4e94-82d5-b74cf442b420)
 
 ![Azure_Databricks_Catalog_KPI_Delta_Table_Customer2](https://github.com/user-attachments/assets/7265026c-2451-4c9d-9a65-ec3fc6549a42)
-
 
 
 
