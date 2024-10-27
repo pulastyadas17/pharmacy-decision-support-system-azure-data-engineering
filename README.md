@@ -11,27 +11,27 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 Fact and Dimension Tables: Ingest and store historical and transactional data in Delta Lake tables inside Azure Databricks.
    
 ###
-**Data Ingestion Pipeline** :
+**1) Data Ingestion Pipeline** :
 Trigger the **Azure Data Factory (ADF) Pipeline** to initiate data ingestion each day a new **daily_pos_transaction_file** arrives in **Azure Data Lake Gen2**.
     
 ###
-**Data Processing & KPI Generation in Azure Databricks** :
+**2) Data Processing & KPI Generation in Azure Databricks** :
 Process the daily_pos_transaction_file using PySpark to clean, validate, and transform data. Populate Delta Tables by calculating various defined KPIs:Citywise Sales, ProductCategorywise Sales, Customerwise Purchase Behavior.
 **Delta Table Storage**: Store processed data in **Delta Lake tables**, acting as the **data warehouse** for **KPIs**.
    
 ###
-**Export Processed Data to Azure Data Lake Gen2** :
+**3) Export Processed Data to Azure Data Lake Gen2** :
 Export all output KPI datasets to Azure Data Lake Gen2 in .csv format with custom filenames containing the processing date (e.g., citywise_KPI_2024-10-26.csv).
 This enables historical tracking of processed data and easy access to insights.
 
 ###
-**Archival & Cleanup of Raw Files** :
+**4) Archival & Cleanup of Raw Files** :
 Move the raw source file, daily_pos_transaction_file, to a processed/directory within Azure Data Lake Gen2, organizing files by processing date.
 Clean up the previous job directory to free up storage and manage data retention effectively.
 Delete raw source file (daily_pos_transaction_file )from previous job directory.
 
 ###
-**Visualization & Reporting** :
+**5) Visualization & Reporting** :
    Generate **PowerBI Visualization Reports** from Delta Table as per defined KPIs.
    Connect Power BI to Delta tables in Azure Databricks to create interactive dashboards and reports. These include:
    **Citywise Sales Trends:** Visualization of sales performance across different cities.
