@@ -1,0 +1,12 @@
+{
+    "Customer_ID": "U051",
+    "medicine": "Atenolol",
+    "claim_amount": 2500,
+    "service_date": "2024-09-01",
+    "submission_date": "2024-09-02",
+    "status": "submitted",
+    "required_docs": null,
+    "prior_authorization": true,
+    "insurance_coverage": 2000,
+    "provider_id": 12
+}

@@ -1,0 +1,151 @@
+StoreID,StoreLocation,ProductID,ProductName,ProductCategory,CurrentStock,ReorderLevel,ReorderQuantity,LastRestockDate,ProjectedDemand
+S001,Philadelphia,P001,Clotrimazole,Dermatological (OTC & Prescription),29,7,25,04-02-2024,32
+S001,San Diego,P001,Ranitidine,Gastrointestinal (OTC & Prescription),93,9,24,01-01-2024,25
+S001,Houston,P001,Ibuprofen,Pain Relief (OTC & Prescription),15,9,20,18-07-2024,44
+S001,New York City,P001,Metoprolol,Cardiovascular Diseases (Prescription),51,5,24,28-01-2024,42
+S001,Dallas,P001,Montelukast,Respiratory Diseases (OTC & Prescription),56,12,24,31-08-2024,24
+S001,Phoenix,P001,Amoxicillin,Antibiotics (Prescription),99,19,47,27-04-2024,25
+S001,Houston,P001,Artificial Tears,Eye Health (OTC & Prescription),49,13,48,29-07-2024,25
+S001,New York City,P001,Sertraline,Mental Health (Prescription),23,19,26,04-08-2024,43
+S001,Houston,P001,Efavirenz,AIDS Treatment (Prescription),56,11,25,29-05-2024,10
+S001,Dallas,P001,Glyburide,Diabetes (Prescription & OTC),13,9,41,25-05-2024,28
+S001,Phoenix,P002,Loratadine,Eye Health (OTC & Prescription),44,12,22,15-08-2024,33
+S001,Houston,P002,Aspirin,Pain Relief (OTC & Prescription),75,5,24,09-02-2024,33
+S001,San Antonio,P002,Acetaminophen,Pain Relief (OTC & Prescription),70,15,26,12-01-2024,16
+S001,New York City,P002,Vitamin D,Bone Health (OTC & Prescription),93,19,48,22-05-2024,13
+S001,Dallas,P002,Azithromycin,Antibiotics (Prescription),41,7,39,26-01-2024,30
+S002,Philadelphia,P002,Amoxicillin,Antibiotics (Prescription),61,17,20,28-01-2024,25
+S002,Houston,P002,Glyburide,Diabetes (Prescription & OTC),80,19,37,24-01-2024,49
+S002,New York City,P002,Emtricitabine,AIDS Treatment (Prescription),75,19,29,07-06-2024,12
+S002,Houston,P002,Sertraline,Mental Health (Prescription),63,13,36,08-03-2024,22
+S002,San Antonio,P002,Fluticasone,Respiratory Diseases (OTC & Prescription),82,12,21,20-01-2024,17
+S002,San Antonio,P003,Alendronate,Bone Health (OTC & Prescription),42,12,45,11-04-2024,32
+S002,Dallas,P003,Ciprofloxacin,Antibiotics (Prescription),41,10,24,04-04-2024,48
+S002,San Antonio,P003,Montelukast,Respiratory Diseases (OTC & Prescription),87,9,21,18-07-2024,43
+S002,Philadelphia,P003,Tenofovir,AIDS Treatment (Prescription),50,10,47,11-07-2024,33
+S002,Chicago,P003,Omeprazole,Gastrointestinal (OTC & Prescription),24,13,39,19-08-2024,30
+S002,Dallas,P003,Cisplatin,Cancer Treatment (Prescription),47,10,45,24-04-2024,25
+S002,Los Angeles,P003,Metoprolol,Cardiovascular Diseases (Prescription),22,11,40,15-01-2024,28
+S002,Chicago,P003,Oxycodone,Pain Relief (OTC & Prescription),65,5,34,05-06-2024,29
+S002,San Diego,P003,Ranitidine,Gastrointestinal (OTC & Prescription),31,18,32,30-08-2024,17
+S002,Philadelphia,P003,Loratadine,Eye Health (OTC & Prescription),49,6,25,14-08-2024,40
+S003,Dallas,P004,Glyburide,Diabetes (Prescription & OTC),43,6,48,09-01-2024,16
+S003,Houston,P004,Montelukast,Respiratory Diseases (OTC & Prescription),23,13,39,26-05-2024,42
+S003,Chicago,P004,Metoprolol,Cardiovascular Diseases (Prescription),97,12,42,24-07-2024,42
+S003,Houston,P004,Doxorubicin,Cancer Treatment (Prescription),40,8,30,20-04-2024,39
+S003,Philadelphia,P004,Olopatadine,Eye Health (OTC & Prescription),26,11,31,04-06-2024,11
+S003,San Antonio,P004,Glipizide,Diabetes (Prescription & OTC),30,14,46,22-01-2024,14
+S003,Los Angeles,P004,Hydrocortisone,Dermatological (OTC & Prescription),47,13,31,26-04-2024,24
+S003,Houston,P004,Olopatadine,Eye Health (OTC & Prescription),19,17,20,30-05-2024,44
+S003,San Antonio,P004,Fluticasone,Respiratory Diseases (OTC & Prescription),18,15,32,26-05-2024,39
+S003,Philadelphia,P004,Loperamide,Gastrointestinal (OTC & Prescription),47,16,28,06-06-2024,44
+S003,Chicago,P005,Acetaminophen,Pain Relief (OTC & Prescription),39,9,34,16-04-2024,14
+S003,Los Angeles,P005,Benzoyl Peroxide,Dermatological (OTC & Prescription),22,7,29,26-02-2024,16
+S003,San Jose,P005,Atenolol,Cardiovascular Diseases (Prescription),59,14,49,02-04-2024,39
+S003,Houston,P005,Citalopram,Mental Health (Prescription),91,8,30,14-09-2024,18
+S003,San Diego,P005,Azithromycin,Antibiotics (Prescription),54,11,47,31-08-2024,13
+S004,Philadelphia,P005,Paclitaxel,Cancer Treatment (Prescription),81,15,46,31-05-2024,42
+S004,Houston,P005,Alendronate,Bone Health (OTC & Prescription),19,17,28,22-08-2024,47
+S004,New York City,P005,Citalopram,Mental Health (Prescription),73,6,25,02-07-2024,43
+S004,San Antonio,P005,Acetaminophen,Pain Relief (OTC & Prescription),50,7,43,04-02-2024,30
+S004,Los Angeles,P005,Citalopram,Mental Health (Prescription),78,17,30,09-01-2024,26
+S004,New York City,P006,Diazepam,Mental Health (Prescription),17,12,41,09-05-2024,43
+S004,San Antonio,P006,Insulin,Diabetes (Prescription & OTC),79,15,36,13-04-2024,19
+S004,Dallas,P006,Doxorubicin,Cancer Treatment (Prescription),68,12,45,25-07-2024,19
+S004,Houston,P006,Tenofovir,AIDS Treatment (Prescription),78,11,36,03-03-2024,44
+S004,San Antonio,P006,Emtricitabine,AIDS Treatment (Prescription),61,17,20,24-01-2024,16
+S004,Chicago,P006,Omeprazole,Gastrointestinal (OTC & Prescription),86,10,46,16-06-2024,46
+S004,New York City,P006,Carbamazepine,Neurological Disorders (Prescription),53,7,21,01-01-2024,17
+S004,Philadelphia,P006,Alendronate,Bone Health (OTC & Prescription),96,15,22,29-06-2024,26
+S004,Phoenix,P006,Albuterol,Respiratory Diseases (OTC & Prescription),56,15,45,21-08-2024,23
+S004,Houston,P006,Glipizide,Diabetes (Prescription & OTC),57,5,39,20-08-2024,29
+S005,Los Angeles,P007,Insulin,Diabetes (Prescription & OTC),25,8,38,20-08-2024,46
+S005,Phoenix,P007,Paclitaxel,Cancer Treatment (Prescription),28,11,26,12-07-2024,11
+S005,Phoenix,P007,Oxycodone,Pain Relief (OTC & Prescription),43,15,40,23-07-2024,41
+S005,New York City,P007,Alendronate,Bone Health (OTC & Prescription),55,5,41,03-08-2024,36
+S005,Los Angeles,P007,Albuterol,Respiratory Diseases (OTC & Prescription),90,6,24,24-06-2024,43
+S005,San Antonio,P007,Levetiracetam,Neurological Disorders (Prescription),33,12,42,10-06-2024,43
+S005,Los Angeles,P007,Carbamazepine,Neurological Disorders (Prescription),11,12,45,27-07-2024,19
+S005,San Jose,P007,Doxorubicin,Cancer Treatment (Prescription),32,13,23,12-02-2024,34
+S005,San Antonio,P007,Clotrimazole,Dermatological (OTC & Prescription),92,19,35,26-06-2024,30
+S005,New York City,P007,Levetiracetam,Neurological Disorders (Prescription),53,6,47,14-05-2024,16
+S005,Chicago,P008,Olopatadine,Eye Health (OTC & Prescription),54,8,41,30-07-2024,40
+S005,San Antonio,P008,Alendronate,Bone Health (OTC & Prescription),49,6,34,02-04-2024,30
+S005,New York City,P008,Cisplatin,Cancer Treatment (Prescription),32,9,38,27-03-2024,38
+S005,New York City,P008,Glyburide,Diabetes (Prescription & OTC),37,5,41,28-02-2024,42
+S005,San Diego,P008,Doxorubicin,Cancer Treatment (Prescription),82,15,38,18-06-2024,46
+S006,New York City,P008,Ranitidine,Gastrointestinal (OTC & Prescription),80,11,26,23-01-2024,17
+S006,Los Angeles,P008,Ciprofloxacin,Antibiotics (Prescription),40,17,20,25-03-2024,40
+S006,New York City,P008,Sertraline,Mental Health (Prescription),94,15,41,01-07-2024,10
+S006,Los Angeles,P008,Aspirin,Pain Relief (OTC & Prescription),81,19,32,21-01-2024,33
+S006,Dallas,P008,Olopatadine,Eye Health (OTC & Prescription),90,9,30,24-03-2024,31
+S006,Dallas,P009,Oxycodone,Pain Relief (OTC & Prescription),37,12,23,17-04-2024,19
+S006,San Diego,P009,Alendronate,Bone Health (OTC & Prescription),32,5,30,19-03-2024,46
+S006,San Diego,P009,Clotrimazole,Dermatological (OTC & Prescription),79,15,32,19-05-2024,12
+S006,San Antonio,P009,Glipizide,Diabetes (Prescription & OTC),17,9,32,14-06-2024,47
+S006,Houston,P009,Montelukast,Respiratory Diseases (OTC & Prescription),34,6,49,26-08-2024,42
+S006,Philadelphia,P009,Lisinopril,Cardiovascular Diseases (Prescription),42,17,39,09-05-2024,30
+S006,Phoenix,P009,Tenofovir,AIDS Treatment (Prescription),78,8,20,21-02-2024,47
+S006,Los Angeles,P009,Fluticasone,Respiratory Diseases (OTC & Prescription),11,6,39,28-02-2024,40
+S006,San Jose,P009,Alendronate,Bone Health (OTC & Prescription),72,19,20,24-04-2024,15
+S006,Phoenix,P009,Fluticasone,Respiratory Diseases (OTC & Prescription),52,14,43,03-05-2024,21
+S007,San Jose,P010,Hydrocortisone,Dermatological (OTC & Prescription),62,19,24,05-02-2024,22
+S007,Houston,P010,Citalopram,Mental Health (Prescription),15,12,24,30-01-2024,46
+S007,New York City,P010,Aspirin,Pain Relief (OTC & Prescription),99,11,41,30-01-2024,44
+S007,Chicago,P010,Vitamin D,Bone Health (OTC & Prescription),17,12,37,31-01-2024,26
+S007,San Jose,P010,Benzoyl Peroxide,Dermatological (OTC & Prescription),56,6,43,06-09-2024,19
+S007,Houston,P010,Alendronate,Bone Health (OTC & Prescription),93,12,37,12-09-2024,10
+S007,Los Angeles,P010,Alendronate,Bone Health (OTC & Prescription),75,10,27,02-03-2024,25
+S007,Houston,P010,Doxorubicin,Cancer Treatment (Prescription),48,17,39,01-03-2024,33
+S007,San Jose,P010,Acetaminophen,Pain Relief (OTC & Prescription),57,13,31,27-07-2024,18
+S007,Los Angeles,P010,Gabapentin,Neurological Disorders (Prescription),87,11,21,13-02-2024,22
+S007,Philadelphia,P011,Gabapentin,Neurological Disorders (Prescription),14,11,32,12-07-2024,30
+S007,Houston,P011,Ibuprofen,Pain Relief (OTC & Prescription),40,5,24,23-03-2024,41
+S007,Philadelphia,P011,Insulin,Diabetes (Prescription & OTC),55,16,48,07-09-2024,19
+S007,Philadelphia,P011,Atenolol,Cardiovascular Diseases (Prescription),99,9,28,15-04-2024,22
+S007,Houston,P011,Benzoyl Peroxide,Dermatological (OTC & Prescription),52,18,42,12-09-2024,33
+S008,New York City,P011,Ciprofloxacin,Antibiotics (Prescription),30,11,30,15-02-2024,31
+S008,Philadelphia,P011,Doxorubicin,Cancer Treatment (Prescription),69,10,26,19-04-2024,26
+S008,San Diego,P011,Benzoyl Peroxide,Dermatological (OTC & Prescription),81,19,42,27-07-2024,27
+S008,Phoenix,P011,Emtricitabine,AIDS Treatment (Prescription),70,5,47,27-08-2024,35
+S008,Los Angeles,P011,Levetiracetam,Neurological Disorders (Prescription),34,9,26,14-08-2024,46
+S008,Houston,P012,Diazepam,Mental Health (Prescription),96,5,39,10-02-2024,10
+S008,San Antonio,P012,Emtricitabine,AIDS Treatment (Prescription),28,10,41,14-02-2024,18
+S008,Houston,P012,Sertraline,Mental Health (Prescription),98,13,49,24-03-2024,34
+S008,San Jose,P012,Metoprolol,Cardiovascular Diseases (Prescription),46,14,46,08-05-2024,40
+S008,Philadelphia,P012,Ibuprofen,Pain Relief (OTC & Prescription),19,15,43,27-04-2024,39
+S008,San Antonio,P012,Albuterol,Respiratory Diseases (OTC & Prescription),48,16,47,14-08-2024,14
+S008,Houston,P012,Montelukast,Respiratory Diseases (OTC & Prescription),35,9,23,17-03-2024,30
+S008,Phoenix,P012,Montelukast,Respiratory Diseases (OTC & Prescription),80,15,28,11-07-2024,19
+S008,Chicago,P012,Vitamin D,Bone Health (OTC & Prescription),70,5,36,14-02-2024,33
+S008,San Jose,P012,Tenofovir,AIDS Treatment (Prescription),53,7,43,26-04-2024,10
+S009,San Diego,P013,Benzoyl Peroxide,Dermatological (OTC & Prescription),46,6,20,11-07-2024,40
+S009,Philadelphia,P013,Montelukast,Respiratory Diseases (OTC & Prescription),67,6,49,09-03-2024,32
+S009,Houston,P013,Albuterol,Respiratory Diseases (OTC & Prescription),90,16,22,08-04-2024,11
+S009,San Jose,P013,Carbamazepine,Neurological Disorders (Prescription),63,7,24,11-02-2024,18
+S009,Houston,P013,Emtricitabine,AIDS Treatment (Prescription),80,18,24,14-01-2024,23
+S009,New York City,P013,Benzoyl Peroxide,Dermatological (OTC & Prescription),29,18,22,25-01-2024,44
+S009,Dallas,P013,Ranitidine,Gastrointestinal (OTC & Prescription),89,11,39,08-03-2024,44
+S009,San Antonio,P013,Loperamide,Gastrointestinal (OTC & Prescription),73,15,20,18-02-2024,11
+S009,San Jose,P013,Vitamin D,Bone Health (OTC & Prescription),77,14,28,03-07-2024,39
+S009,Philadelphia,P013,Vitamin D,Bone Health (OTC & Prescription),64,7,38,25-01-2024,28
+S009,San Antonio,P014,Insulin,Diabetes (Prescription & OTC),89,14,39,25-05-2024,17
+S009,New York City,P014,Fluticasone,Respiratory Diseases (OTC & Prescription),84,16,31,26-08-2024,35
+S009,Chicago,P014,Doxorubicin,Cancer Treatment (Prescription),60,17,20,06-01-2024,17
+S009,New York City,P014,Artificial Tears,Eye Health (OTC & Prescription),75,9,28,13-02-2024,39
+S009,Dallas,P014,Citalopram,Mental Health (Prescription),16,13,39,05-07-2024,16
+S010,Chicago,P014,Sertraline,Mental Health (Prescription),26,13,28,14-09-2024,28
+S010,Houston,P014,Levetiracetam,Neurological Disorders (Prescription),52,9,41,03-06-2024,44
+S010,San Diego,P014,Atenolol,Cardiovascular Diseases (Prescription),67,17,33,02-06-2024,12
+S010,Houston,P014,Insulin,Diabetes (Prescription & OTC),24,16,21,09-05-2024,30
+S010,Phoenix,P014,Ibuprofen,Pain Relief (OTC & Prescription),77,12,49,24-05-2024,30
+S010,San Diego,P015,Tenofovir,AIDS Treatment (Prescription),80,9,25,17-08-2024,41
+S010,Chicago,P015,Sertraline,Mental Health (Prescription),34,15,26,24-04-2024,16
+S010,San Antonio,P015,Loratadine,Eye Health (OTC & Prescription),22,19,43,21-06-2024,15
+S010,San Antonio,P015,Tenofovir,AIDS Treatment (Prescription),85,6,23,21-06-2024,24
+S010,Chicago,P015,Albuterol,Respiratory Diseases (OTC & Prescription),13,7,46,24-08-2024,41
+S010,New York City,P015,Ranitidine,Gastrointestinal (OTC & Prescription),16,6,43,09-05-2024,41
+S010,Dallas,P015,Paclitaxel,Cancer Treatment (Prescription),21,6,31,09-08-2024,23
+S010,Philadelphia,P015,Artificial Tears,Eye Health (OTC & Prescription),11,17,43,12-05-2024,17
+S010,Phoenix,P015,Vitamin D,Bone Health (OTC & Prescription),36,18,35,11-01-2024,46
+S010,Houston,P015,Emtricitabine,AIDS Treatment (Prescription),82,19,30,05-05-2024,14
