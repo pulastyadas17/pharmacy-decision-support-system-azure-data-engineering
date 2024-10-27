@@ -16,11 +16,12 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 ###
 4) Put copy of all the output files in Azure Data Lake Gen2 as csv format with custom name along with processing date.
 ###
-5) Move raw source file (daily_pos_transaction_file ) file to directory **(/processed/date/container)** inside Azure Data Lake Gen2.
+**Archival & Cleanup of Raw Files**
+Move the raw source file, daily_pos_transaction_file, to a processed/directory within Azure Data Lake Gen2, organizing files by processing date.
+Clean up the previous job directory to free up storage and manage data retention effectively.
+Delete raw source file (daily_pos_transaction_file )from previous job directory.
 ###
-6) Delete raw source file (daily_pos_transaction_file )from previous job directory.
-###
-7) Visualization & Reporting
+**Visualization & Reporting**
    Generate **PowerBI Visualization Reports** from Delta Table as per defined KPIs.
    Connect Power BI to Delta tables in Azure Databricks to create interactive dashboards and reports. These include:
    **Citywise Sales Trends:** Visualization of sales performance across different cities.
