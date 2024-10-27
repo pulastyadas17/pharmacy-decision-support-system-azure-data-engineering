@@ -85,8 +85,11 @@ Delete raw source file (daily_pos_transaction_file )from previous job directory.
    ![Azure_Databricks_PowerBI_Connection_Setup](https://github.com/user-attachments/assets/8bfa3b25-25be-4b73-b983-3c288ad2580d)
 
    **Citywise Sales Trends:** Visualization of sales performance across different cities.
+   
    **Product Category Sales:** Detailed analysis of popular product categories.
+   
    **Customer Behavior Analysis:** Insights into purchasing patterns and customer segmentation.
+   
    Reports provide stakeholders with real-time insights into business metrics, enabling quick decision-making.
 
 
