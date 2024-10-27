@@ -6,7 +6,8 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 
 ###
 
-
+## High Level Project Architecture 
+###
 1) Create all **fact table** and **dimension tables** inside **Databricks** in the form of **Delta Table**.
 2) Trigger **Azure Databricks Notebook** from **Azure Data Factory** to process **daily_pos_transaction_file** which will arrive in **Azure Data Lake Gen2**.
 3) After processing daily_pos_transaction_file in Azure Databricks using PySpark. Load the processed file to various delta tables as per various KPI defined like - **Citywise**, **ProductCategorywise** and **CustomertWise**.(Delta Table will act as **Data Warehouse** of defined **KPIs**)
