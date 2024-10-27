@@ -20,5 +20,5 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 ## Benefits of the Pharmacy Decision Support System using Azure Data Engineering Solution
 ###
 1) Improved Sales and Profitability: Leveraging sales data by location and category allows the company to optimize stock and reduce waste.
-2) Data-Driven Marketing: Targeted insights enable HealthPro to improve customer satisfaction with relevant promotions.
+2) Data-Driven Marketing: Targeted insights enable HealthPro to improve customer satisfaction with relevant promotions.Customerwise insights enable the company to personalize marketing and increase customer loyalty through tailored offers. Product category analysis helps company in designing targeted promotions for high-demand products.By understanding city-specific demand, company can allocate inventory based on local needs, minimizing stockouts and overstock situations.
 3) Operational Efficiency: Automated data processing, archival, and reporting streamline pharmacy operations and reduce manual intervention.
