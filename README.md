@@ -4,9 +4,11 @@ Pharmacy Decision Support System with Azure Data Engineering : This repository p
 ## Project Overview 
 FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making by implementing a data-driven support system that provides timely insights on sales, inventory, and customer behavior according to different productwise, product category wise and city wise. This system leverages Azure Data Engineering services to process daily transactional data and generate actionable insights for revenue growth, operational efficiency and customer engagement.
 
-###
-
 ## High Level Project Architecture 
+
+![image](https://github.com/user-attachments/assets/288e69d9-31e8-4f7b-a630-bf54de0e5dd4)
+
+
 ###
 Fact and Dimension Tables: Ingest and store historical and transactional data in Delta Lake tables inside Azure Databricks.
    
