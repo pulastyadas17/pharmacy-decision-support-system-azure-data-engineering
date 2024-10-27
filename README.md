@@ -14,7 +14,7 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 4) Put copy of all the output files in Azure Data Lake Gen2 as csv format with custom name along with processing date.
 5) Move raw source file (daily_pos_transaction_file ) file to directory **(/processed/date/container)** inside Azure Data Lake Gen2.
 6) Delete raw source file (daily_pos_transaction_file )from previous job directory.
-7) Generate PowerBI Visualization Reports from Delta Table as per defined KPIs.
+7) Generate **PowerBI Visualization Reports** from Delta Table as per defined KPIs.
 
 
 ## Benefits of the Pharmacy Decision Support System using Azure Data Engineering Solution
