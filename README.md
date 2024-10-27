@@ -6,7 +6,8 @@ FitHealthPro Pharmacy Solutions aims to streamline and enhance decision-making b
 
 ## High Level Project Architecture 
 
-![image](https://github.com/user-attachments/assets/288e69d9-31e8-4f7b-a630-bf54de0e5dd4)
+![Pharmacy_DSS_Project_Architecture_Diagram](https://github.com/user-attachments/assets/f283522b-7b58-43a1-bc2b-35c862b243bb)
+
 
 
 ###
